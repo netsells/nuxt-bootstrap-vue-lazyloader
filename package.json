@@ -1,7 +1,7 @@
 {
     "name": "@netsells/nuxt-bootstrap-vue-lazyloader",
     "description": "Nuxt module for lazyloading bootstrap-vue components",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "main": "./lib/index.js",
     "license": "MIT",
     "repository": {
